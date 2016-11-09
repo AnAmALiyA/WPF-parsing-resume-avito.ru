@@ -1,0 +1,16 @@
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\bin\Debug\WPF Parsing resume avito_ru.exe.config
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\obj\Debug\WPF Parsing resume avito_ru.csprojResolveAssemblyReference.cache
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\obj\Debug\WindowFoUrl.g.cs
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\obj\Debug\MainWindow.g.cs
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\obj\Debug\App.g.cs
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\obj\Debug\WPF Parsing resume avito_ru_MarkupCompile.cache
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\obj\Debug\WPF Parsing resume avito_ru_MarkupCompile.lref
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\bin\Debug\WPF Parsing resume avito_ru.exe
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\bin\Debug\WPF Parsing resume avito_ru.pdb
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\obj\Debug\WindowFoUrl.baml
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\obj\Debug\MainWindow.baml
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\obj\Debug\WPF Parsing resume avito_ru.g.resources
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\obj\Debug\WPF_Parsing_resume_avito_ru.Properties.Resources.resources
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\obj\Debug\WPF Parsing resume avito_ru.csproj.GenerateResource.Cache
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\obj\Debug\WPF Parsing resume avito_ru.exe
+D:\Education_materials\Test Task\WPF Parsing resume avito_ru\WPF Parsing resume avito_ru\obj\Debug\WPF Parsing resume avito_ru.pdb

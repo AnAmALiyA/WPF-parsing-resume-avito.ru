@@ -1,0 +1,17 @@
+﻿<Window x:Class="WPF_Parsing_resume_avito_ru.Interfaces.WindowFoUrl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Parsing_resume_avito_ru.Interfaces"
+        mc:Ignorable="d"
+        Title="Window1" Height="144" Width="368.99">
+    <Grid Margin="0,0,2,-1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="179*"/>
+            <ColumnDefinition Width="180*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="textBox" TextWrapping="Wrap" Text="" Grid.ColumnSpan="2" Margin="0,0,0,36"/>
+        <Button x:Name="button_url" Content="OK" Margin="142,0,0,8" Click="button_url_Click" Height="23" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="75" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>

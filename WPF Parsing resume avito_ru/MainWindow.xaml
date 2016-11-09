@@ -1,0 +1,34 @@
+﻿<Window x:Class="WPF_Parsing_resume_avito_ru.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Parsing_resume_avito_ru"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="893.609">
+    <Grid Margin="0,0,2,0">
+        <ListView x:Name="listView" Margin="90,10,0,10">
+            <ListView.View>
+                <GridView>
+                    <GridView.Columns>
+                        <GridViewColumn Header="Специальность" DisplayMemberBinding="{Binding Speciality}"></GridViewColumn>
+                        <GridViewColumn Header="Зарплата" Width="80" DisplayMemberBinding="{Binding Pay}"></GridViewColumn>
+                        <GridViewColumn Header="Пол" DisplayMemberBinding="{Binding Sex}"></GridViewColumn>
+                        <GridViewColumn Header="Возраст" DisplayMemberBinding="{Binding Age}"></GridViewColumn>
+                        <!--<GridViewColumn Header="Возраст" DisplayMemberBinding="{Binding AgeText}"></GridViewColumn>-->
+                        <GridViewColumn Header="Опыт" DisplayMemberBinding="{Binding Experience}"></GridViewColumn>
+                        <!--<GridViewColumn Header="Опыт" DisplayMemberBinding="{Binding ExperienceText}"></GridViewColumn>-->                        
+                        <GridViewColumn Header="Образование" DisplayMemberBinding="{Binding Education}"></GridViewColumn>
+                        <GridViewColumn Header="Место нахождения" DisplayMemberBinding="{Binding Location}"></GridViewColumn>
+                        <GridViewColumn Header="Опыт работы" DisplayMemberBinding="{Binding DateWork}"></GridViewColumn>
+                        <GridViewColumn Header="Специальность работы" DisplayMemberBinding="{Binding SpecialityWork}"></GridViewColumn>
+                        <GridViewColumn Header="Место работы" DisplayMemberBinding="{Binding LocationWork}"></GridViewColumn>
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Button x:Name="button_search_CV" Content="Поиск" HorizontalAlignment="Left" Margin="10,48,0,0" VerticalAlignment="Top" Width="75" Click="button_search_CV_Click"/>
+        <Button x:Name="button_page_CV" Content="Страница" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="button_page_CV_Click"/>
+    </Grid>
+</Window>
